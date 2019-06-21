@@ -12,14 +12,11 @@ npm install smalltools-ui
 import smalltools from 'smalltools-ui'
 Vue.use(smalltools)
 ```
-#使用
-``` html
-<st-num />
-```
+
 ### 组件
 
 
-##<st-num />
+## <st-num />
 
 属性参数列表
 --
