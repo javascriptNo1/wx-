@@ -4,8 +4,8 @@
 
 ## 用法
 
-``` bash
-安装
+``` 
+#安装
 npm install smalltools-ui
 
 在main.js全局注册
