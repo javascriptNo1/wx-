@@ -16,11 +16,11 @@ Vue.use(smalltools)
 ``` html
 <st-num />
 ```
-## 组件
+### 组件
 
-``` html
-<st-num />
-```
+
+##<st-num />
+
 属性参数列表
 --
 |参数名称|类型|默认值|描述|
