@@ -13,7 +13,7 @@ import smalltools from 'smalltools-ui'
 Vue.use(smalltools)
 ```
 
-### 组件
+## 组件
 
 
 ## st-num
@@ -32,4 +32,4 @@ Vue.use(smalltools)
 --
 |事件名称|描述|参数|
 |:---:|:---:|:---:|
-|change|改变数值时的回调函数|返回当前的数值|
+|change|数值改变时触发|返回当前的数值|
