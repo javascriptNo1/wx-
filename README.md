@@ -13,7 +13,7 @@ import smalltools from 'smalltools-ui'
 Vue.use(smalltools)
 ```
 #使用
-``` 
+``` html
 <st-num />
 ```
 ## 组件
